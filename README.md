@@ -1,1 +1,1 @@
-# chess-ai
+# chess game using C++
